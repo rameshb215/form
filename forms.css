@@ -1,0 +1,64 @@
+.bg-container{
+    background-color: rgb(91, 144, 212);
+     width: 100%;
+     height: 105vh;
+     background-size: cover;
+     text-align: center;
+   }
+   .card{
+     height: 80vh;
+     width:90%;
+     text-align: center;
+   }
+   .h1{
+     color: rgb(7, 0, 0);
+     font-size: 20px;
+     padding: 15px;
+     font-family:"roboto";
+   }
+   .input{
+     height: 19px;
+     width: 180px;
+   }
+   .label{
+     color: black;
+     font-size: 15px;
+     font-family: 'roboto';
+     font-weight:400;
+     margin-right: 140px;
+   }
+   .label2{
+     color: black;
+     font-size: 15px;
+     font-family: 'roboto';
+     font-weight:400;
+     margin-right:55px;
+   }
+   .label3{
+     color: black;
+     font-size: 15px;
+     font-family: 'roboto';
+     font-weight:400;
+     margin-right:95px;
+   }
+   .labelg{
+     color: black;
+     font-size: 15px;
+     font-family: 'roboto';
+     font-weight:400;
+     margin-right: 140px;
+   }
+   .btn{
+     color: black;
+     font-weight: 600;
+     padding: 5px;
+     border-radius: 5px;
+   
+   }
+   .footer{
+     background-color: chocolate;
+   }
+   .ram{
+     color: navy;
+     font-weight: 900;
+   }
